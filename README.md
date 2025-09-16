@@ -1,0 +1,3 @@
+<img width="967" height="266" alt="image" src="https://github.com/user-attachments/assets/c4f6c785-e083-4084-8415-294c3abcbb1d" />
+
+<p This program contains two recursive solutions. The first part computes the Least Common Multiple (LCM) of two positive integers by using a recursive Greatest Common Divisor (GCD) function, while ensuring that only positive, non-zero values are accepted as input. The second part solves the Tower of Hanoi puzzle, where the user enters the number of disks and the program displays the step-by-step moves needed to transfer all disks from the source rod to the target rod using an auxiliary rod, following the puzzle’s recursive rules./p>
